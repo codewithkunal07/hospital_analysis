@@ -1,5 +1,5 @@
 🎨 Hospital Patient Analysis – Excel Dashboard 
-📊 *Built with Microsoft Excel | Interactive | Insightful*
+📊 *Built with Microsoft Excel | Interactive | Insightful
 
 🚑 This dashboard dives deep into hospital patient data to uncover trends in demographics, treatment outcomes, and cost distribution. Designed for clarity, impact, and decision-making.
 
