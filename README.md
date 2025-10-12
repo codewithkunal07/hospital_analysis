@@ -5,23 +5,21 @@
 
 ---
 
-### 🔍 **Dashboard Highlights**
+🔍 **Dashboard Highlights**
 - 👥 **Total Patients**: 499  
   - 👩‍⚕️ Female: 265  
   - 👨‍⚕️ Male: 234  
 - 💰 **Total Treatment Cost**: ₹41,87,200  
 
 ---
-
-### 📈 **Key Visualizations**
+📈 **Key Visualizations**
 - 🥧 **Gender-wise Satisfaction** (Pie Chart with color-coded slices)  
 - ⚕️ **Health Status by Gender** (Recovered vs Stable – stacked bar)  
 - 💸 **Treatment-wise Cost** (Bar Graph with conditional formatting)  
 - 🔁 **Disease-wise Readmission Stats** (Dynamic table)
 
 ---
-
-### 🧩 **Interactive Features**
+ 🧩 **Interactive Features**
 - 🎛️ Slicers for:
   - Gender  
   - Readmission  
@@ -32,7 +30,7 @@
 
 ---
 
-### 🛠️ **Tools Used**
+🛠️ **Tools Used**
 - Microsoft Excel  
 - Pivot Tables  
 - Slicers & Filters  
